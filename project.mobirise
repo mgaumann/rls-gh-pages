@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "2",
+    "name": "rls-1",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 30,
+    "uniqCompNum": 20,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -43,74 +43,47 @@
       },
       "components": [
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#c0a375"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
-          "_styles": {
-            "H2": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-j",
           "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img2-2000x873.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "FULL SCREEN SLIDER",
-                "showText": true,
-                "text": "Some more of that example subtext",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FACILITIES</a> "
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=VxoPYioKHoY",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "VIDEO SLIDE",
-                "showText": true,
-                "text": "No way the truck moves, some nice dramtic footage",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img1-2000x657.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "IMAGE SLIDE",
-                "showText": true,
-                "text": "This is some example text",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": true
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/VxoPYioKHoY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
           },
-          "_anchor": "slider-t",
-          "articleLayout": false,
-          "_customCSS": ""
+          "title": "UNRIVALED LOGISTICS",
+          "text": "<p>Commited to giving you the service to get you where your going</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\">View Capabilities</a>"
         },
         {
           "_tags": [
@@ -120,21 +93,12 @@
           "_styles": {
             "H3": {
               "color": "#232323",
-              "font-size": "32px",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "font-size": "32px"
             },
             "H2": {
-              "color": "#0d6938",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "color": "#0d6938"
             }
           },
-          "_customCSS": ".btn{\n    background-color: #0d6938;\n    border: none;\n}\n",
           "_anchor": "msg-box1-a",
           "_params": {
             "paddingTop": "1",
@@ -164,18 +128,12 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            },
-            "H3": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#0d6938"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_customCSS": "",
           "_anchor": "header3-c",
           "_params": {
             "paddingTop": "4",
@@ -183,23 +141,23 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<span style=\"font-weight: normal;\">CAPABILITIES</span>",
+          "title": "CAPABILITIES",
           "meta": "getting you from point A to B"
         },
         {
+          "_inherit": "features3",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_customCSS": ".btn {\n    background-color: #ffffff;\n    color: #0d6938;\n    border: 1px solid #0d6938;\n}",
-          "_anchor": "features3-q",
+          "_name": "features6",
+          "_anchor": "features6-i",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -211,80 +169,86 @@
             "columns": 4,
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true
           },
           "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x387.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com",
+              "size": "100",
+              "newWindow": false,
+              "color": "#41a85f"
             }
           },
           "title1": "REGIONAL TRANSPORT",
-          "subtitle1": "",
-          "caption1": "Our regional transportation program can handle shuttle services to and from your facilities to RLS. We provide drayage services to and from all regional ports.",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Our regional transportation program can handle shuttle services to&nbsp;and from your facilities to RLS. We provide drayage services to and&nbsp;from all regional ports.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "et-line",
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com",
+              "size": "100",
+              "newWindow": false,
+              "color": "#41a85f"
             }
           },
           "title2": "WAREHOUSING",
-          "subtitle2": "",
-          "caption2": "We offer three comprehensive facilities in the region with frozen, cooler and dry warehousing space. Modern, safe and secure, our computerized facilities are highly energy efficient and cost-effective for material handling.",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "We offer three comprehensive facilities in the region with frozen,&nbsp;cooler and dry warehousing space. Modern, safe and secure, our&nbsp;computerized facilities are highly energy ef\u001fcient and cost-effective for<br>material handling.&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com",
+              "size": "100",
+              "newWindow": false,
+              "color": "#41a85f"
             }
           },
           "title3": "NATIONAL DISTRIBUTION",
-          "subtitle3": "",
-          "caption3": "RLS Logistics provides truckload and LTL services throughout the United States. Pickups are made throughout the week so that orders can be consolidated and shipped to their \u001fnal destinations.",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "RLS Logistics provides truckload and LTL services throughout the&nbsp;United States. Pickups are made throughout the week so that orders&nbsp;can be consolidated and shipped to their final destinations.&nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "gift",
+              "family": "et-line",
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://mobirise.com",
+              "size": "100",
+              "newWindow": false,
+              "color": "#41a85f"
             }
           },
           "title4": "PACKAGING",
-          "subtitle4": "",
-          "caption4": "RLS Logistics can handle all of your temperature-controlled product needs and get them to your customer quickly and safely. ",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "RLS Logistics can handle all of your temperature-controlled product&nbsp;needs and get them to your customer quickly and safely.&nbsp;<br>",
           "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
             }
           },
           "title5": "Trendy Website Blocks",
@@ -292,11 +256,13 @@
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
             }
           },
           "title6": "Host Anywhere",
@@ -309,14 +275,59 @@
           "_tags": [
             "Theme"
           ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
           "_name": "ext.menu",
+          "_anchor": "ext_menu-9",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {
@@ -325,7 +336,13 @@
               "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -344,69 +361,59 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOCATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Jersey<br>Pennsylvania<br>Delaware</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CLIENT LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">CONTACT US</a></li>",
-          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"#\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/rls-237x128.png\" alt=\"Mobirise\"></a>\n                        <a class=\"navbar-caption\" href=\"#\"></a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"#\" code-editable-id=\"44\">SERVICES</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"#\" code-editable-id=\"45\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" code-editable-id=\"46\">LOCATIONS</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"#\" code-editable-id=\"47\">New Jersey<br>Pennsylvania<br>Delaware</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"#\" code-editable-id=\"48\"></a></div></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"#\" code-editable-id=\"49\">CLIENT LOGIN</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-success mbr-editable-menu-item\" href=\"#\" code-editable-id=\"50\">CONTACT US</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.hide-buttons .nav-btn {\n\tdisplay: none !important;\n    font-family: 'Open Sans', sans-serif;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n\tfont-family: 'Open Sans', sans-serif;\n}\n.link {\n\tfont-size: 0.75rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.812rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #eeeeee;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #0e0e0e;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #202020!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #0d6938;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n.btn-success {\n    background-color: #ffffff;\n    color: #0d6938;\n    font-family: 'Open Sans', sans-serif;\n}\n",
-          "_customTemplate": true,
-          "_anchor": "ext_menu-9"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\">ABOUT US</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">LOCATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Jersey<br>Pennsylvania<br>Delaware</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">CLIENT LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"#\">CONTACT US</a></li>",
+          "_customCSS": ""
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
-          "_customCSS": ".btn {\n    background-color: #0d6938;\n    color: #ffffff;\n    border: 1px solid #0d6938;\n}",
           "_anchor": "buttons1-d",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT CAPABILITIES</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT CAPABILITIES</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">REACH OUT</a>"
         },
         {
-          "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
-              "color": "#000"
+              "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "color": "#0d6938"
             },
-            ".lead P": {
-              "color": "#ffffff"
+            "P": {
+              "color": "#000000"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-o",
+          "_name": "content5",
+          "_anchor": "content5-f",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
-            "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/map4-2000x601.jpg",
-            "bgColor": "#41a85f",
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rlsmap-2000x1050.png",
+            "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#41a85f",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#c0a375",
             "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "showCaption": true
           },
-          "title": "",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"#\" data-toolbar=\"-mbrBtnMove\">VIEW OUR LOCATIONS</a>"
+          "title": "PROUDLY SERVING THE TRISTATE AREA",
+          "caption": ""
         },
         {
           "_tags": [
@@ -416,39 +423,26 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
-            },
-            "SMALL": {
-              "text-align": "center"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
-          "_customCSS": ".btn {\n    background-color: #0d6938;\n    color: #ffffff;\n    border: 1px solid #0d6938;\n}",
           "_anchor": "form1-g",
           "_params": {
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x803.png",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": false,
-            "overlay": true,
+            "bgColorRadio": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#222",
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
-          "subtitle": "Please reach out with any logistical questions you may have",
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "davidson@ospinamusic.com",
             "alerts": {
@@ -482,8 +476,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-p",
+          "_name": "contacts3",
+          "_anchor": "contacts3-h",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -494,15 +488,88 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rls-237x128.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>rls</li><li>Download for Windows</li><li>Download for Mac</li></ul>"
+          "text1": "Some annecdotal information in the footer",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "1234 Street Name, City AA 99999",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "support@rlslogistics.com",
+          "title1": "Categories",
+          "text5": "<li>Business</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Packaging</span></li><li>Storage</li><li>Tech</li>",
+          "text6": "<strong>Contacts</strong><br>Email: support@rlslogistics.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "davidson@ospinamusic.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     }
