@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rls-2",
-    "currentPage": "locations.html",
+    "currentPage": "expertise.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1306,7 +1306,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60011.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60012.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2205,7 +2205,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60011.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60012.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2681,7 +2681,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60011.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60012.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3292,7 +3292,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Our Newfield Logistics Center is a modern facility that is situated on 43 acres in Southern New Jersey. This facility serves as the company's consolidation center for all LTL shipments handled by our transportation division. In addition, we provide customized packaging services at this site. The company's corporate office is also located at the Newfield facility.</p>"
+          "text": "<p>Our Newfield Logistics Center is a modern facility that is situated on 43 acres in Southern New Jersey. This facility serves as the company's consolidation center for all LTL shipments handled by our transportation division. In addition, we provide customized packaging services at this site. The company's corporate office is also located at the Newfield facility.</p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_inherit": "msg-box8",
@@ -3308,12 +3313,12 @@
           "_anchor": "msg-box3-2a",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x803.png",
             "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -3323,9 +3328,9 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": true
+            "showButton": false
           },
-          "title": "SITE INFORMATION",
+          "title": "<span style=\"font-weight: normal;\">SITE INFORMATION</span>",
           "text": "<p>258,000 sq. ft.</p><p>6,800,000 cu. ft.</p><p>20,000 fully racked pallet positions</p><p>64 truck dock doors</p><p>-5F to 38F</p><p>Land available for expansion</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
@@ -3346,7 +3351,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "SERVICES",
+          "title": "<span style=\"font-weight: normal;\">SERVICES</span>",
           "meta": ""
         },
         {
@@ -3381,57 +3386,9 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "Order and case picking"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "ext.menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/rls-237x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOCATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Jersey<br>Pennsylvania<br>Delaware</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">CLIENT LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"https://mobirise.com/\">CONTACT US</a></li>",
-          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"#\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/rls-237x128.png\" alt=\"Mobirise\"></a>\n                        <a class=\"navbar-caption\" href=\"#\"></a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"#\" code-editable-id=\"306\">SERVICES</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"#\" code-editable-id=\"307\">EXPERTISE</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" code-editable-id=\"308\">LOCATIONS</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"#\" code-editable-id=\"309\">Newfield, NJ<br>Vineland, NJ<br>Pittston, PA</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"#\" code-editable-id=\"310\"></a></div></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"#\" code-editable-id=\"311\">CAREERS</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"#\" code-editable-id=\"312\">ABOUT RLS</a></li>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </ul></div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.hide-buttons .nav-btn {\n\tdisplay: none !important;\n    font-family: 'Open Sans', sans-serif;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n\tfont-family: 'Open Sans', sans-serif;\n}\n.link {\n\tfont-size: 0.75rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.812rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #eeeeee;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #0e0e0e;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #202020!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #0d6938;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n.btn-success {\n    background-color: #ffffff;\n    color: #0d6938;\n    font-family: 'Open Sans', sans-serif;\n}\n",
-          "_customTemplate": true,
-          "_anchor": "ext_menu-27"
         },
         {
           "_tags": [
@@ -3459,7 +3416,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "RF scanning/barcode inventory control"
         },
@@ -3495,7 +3452,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "Tempering"
         },
@@ -3525,7 +3482,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "AccelefrateSM Consolidation Program"
         },
@@ -3561,7 +3518,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "LTL shipments to all 48 states"
         },
@@ -3591,7 +3548,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "USDA re-inspection services (I-530)"
         },
@@ -3627,7 +3584,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "Customized packaging services"
         },
@@ -3657,7 +3614,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "Shuttle service"
         },
@@ -3693,7 +3650,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "Shuttle service"
         },
@@ -3723,7 +3680,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "Transportation management"
         },
@@ -3759,7 +3716,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "NetView online inventory access"
         },
@@ -3789,7 +3746,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "EDI"
         },
@@ -3825,7 +3782,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "BRC Certified"
         },
@@ -3855,7 +3812,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
           "title": "Shuttle service to and from customer's plant"
         },
@@ -3884,6 +3841,98 @@
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>rls</li><li>Download for Windows</li><li>Download for Mac</li></ul>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#073c20"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#0b5b31!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#0d6938"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#08582d!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3p",
+          "_params": {
+            "bgColor": "#0d6938",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/rls-237x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"expertise.html\">EXPERTISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"locations.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOCATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Newfield, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Vineland, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Pittson, PA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mt. Laurel, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Vineland North, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Corporate Office<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CAREERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-rls.html\">ABOUT RLS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
