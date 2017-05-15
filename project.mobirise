@@ -1249,7 +1249,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6002.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6003.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2046,7 +2046,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6002.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6003.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
