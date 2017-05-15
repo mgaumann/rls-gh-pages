@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rls-2",
-    "currentPage": "expertise.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -602,7 +602,7 @@
           },
           "title": "SERVICES",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRANSPORTATION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WAREHOUSING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DISTRIBUTION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PACKAGING</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"transportation.html\" data-toolbar=\"-mbrBtnMove\">TRANSPORTATION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"transportation.html\" data-toolbar=\"-mbrBtnMove\">WAREHOUSING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"transportation.html\" data-toolbar=\"-mbrBtnMove\">DISTRIBUTION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"transportation.html\" data-toolbar=\"-mbrBtnMove\">PACKAGING</a> "
         },
         {
           "_inherit": "features3",
@@ -649,7 +649,7 @@
           "title1": "REGIONAL TRANSPORT",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Our regional transportation program can handle shuttle services to and from your facilities to RLS. We provide drayage services to and from all regional ports.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"transportation.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -665,7 +665,7 @@
           "title2": "WAREHOUSING",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "We offer three comprehensive facilities in the region with frozen, cooler and dry warehousing space. Modern, safe and secure, our computerized facilities are highly energy efficient and cost-effective for material handling.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"transportation.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -681,7 +681,7 @@
           "title3": "NATIONAL DISTRIBUTION",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "RLS Logistics provides truckload and LTL services throughout the United States. Pickups are made throughout the week so that orders can be consolidated and shipped to their \u001ffinal destinations.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"transportation.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -697,7 +697,7 @@
           "title4": "PACKAGING",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "RLS Logistics can handle all of your temperature-controlled product needs and get them to your customer quickly and safely.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"transportation.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -1306,7 +1306,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60012.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60013.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2205,7 +2205,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60012.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60013.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2291,8 +2291,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "GREEN INITITIVES",
-          "meta": "By John Smith posted July 20, 2016"
+          "title": "<span style=\"font-weight: normal;\">GREEN INITIATIVES</span>",
+          "meta": ""
         },
         {
           "_tags": [
@@ -2681,7 +2681,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60012.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60013.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
