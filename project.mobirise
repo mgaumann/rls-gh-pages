@@ -783,7 +783,7 @@
               "src": "@PROJECT_PATH@/assets/images/rls-237x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1249,7 +1249,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6004.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6005.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2046,7 +2046,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6004.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6005.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
