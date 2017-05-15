@@ -646,6 +646,7 @@ h6,
 
 
 
+
 #header5-1g .mbr-section-title {
   color: #ffffff;
 }
@@ -659,6 +660,9 @@ h6,
 #msg-box8-1n .mbr-section-title,
 #msg-box8-1n p {
   color: #fff;
+}
+#msg-box8-1n .mbr-section-title {
+  font-family: 'Lato', sans-serif;
 }
 #msg-box1-1o H3 {
   text-align: left;
@@ -763,6 +767,7 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 
+
 #header5-2v .mbr-section-title {
   color: #ffffff;
 }
@@ -812,6 +817,9 @@ h6,
 #header3-3l .mbr-section-title,
 #header3-3l .mbr-section-subtitle {
   text-align: center;
+}
+#header3-3l H3 {
+  font-family: 'Montserrat', sans-serif;
 }
 #content6-3k P {
   text-align: center;
