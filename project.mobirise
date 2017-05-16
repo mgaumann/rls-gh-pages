@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 185,
+    "uniqCompNum": 187,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -521,7 +521,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_customCSS": "\n.navbar-dropdown .navbar-logo img {\n    height: 150px;\n    width: 200px;\n}",
+          "_customCSS": "\n.navbar-dropdown .navbar-logo img {\n    height: 70%;\n    width: 70%;\n}",
           "_anchor": "menu-3p",
           "_params": {
             "bgColor": "#ffffff",
@@ -1308,7 +1308,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60020.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60022.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1458,7 +1458,7 @@
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"my-image\">\n    <div class=\"container\">\n<div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n                    <div class=\"navbar-brand\">\n                        \n                    </div>\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link\" href=\"expertise.html\">EXPERTISE</a></li><li class=\"nav-item\"><a class=\"nav-link link\" href=\"careers.html\">CAREERS</a></li><li class=\"nav-item\"><a class=\"nav-link link\" href=\"about-rls.html\">ABOUT RLS</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n    </div>\n</div>\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n    height: 50px;\n    position: fixed;\n    top: 0;\n    z-index: 100;\n    background: green;\n    \n}",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n    height: 38px;\n    padding-top:-10px;\n    position: fixed;\n    top: 0;\n    z-index: 100;\n    background: green;\n}\n",
           "alias": "code-editor",
           "_tags": [
             "Extension"
@@ -1505,7 +1505,7 @@
           "title": "INDUSTRIES + EXPERTISE",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>",
-          "_customCSS": ".btn {\n    border-color: white;\n    border: solid 2px white;\n}"
+          "_customCSS": ".btn {\n    border-color: white;\n    border: solid 2px white;\n}\n\n"
         },
         {
           "_styles": {
@@ -2223,7 +2223,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60020.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60022.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2699,7 +2699,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60020.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60022.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4543,7 +4543,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x80321.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x80323.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5600,6 +5600,133 @@
           ],
           "_name": "menu",
           "_anchor": "menu-4o",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#007b24",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"expertise.html\">EXPERTISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"locations.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOCATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Newfield, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Vineland, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Pittson, PA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mt. Laurel, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Vineland North, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Corporate Office<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">CAREERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-rls.html\">ABOUT RLS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "title": "Site Maker Title",
+        "meta_descr": "Site Maker Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-55",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>rls</li><li>Download for Windows</li><li>Download for Mac</li></ul>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#007b24"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#007b24"
+            },
+            ".link, .dropdown-item": {
+              "color": "#007b24",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#007b24",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#08582d!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": ".navbar {\nmargin-top: 35px;\n}",
+          "_anchor": "menu-56",
           "_params": {
             "bgColor": "#ffffff",
             "fontSize": 0.75,
