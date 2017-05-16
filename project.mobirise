@@ -1306,7 +1306,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60016.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60018.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2220,7 +2220,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60016.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60018.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2696,7 +2696,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60016.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60018.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4540,7 +4540,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x80317.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x80319.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
