@@ -562,6 +562,10 @@ h6,
 #menu-3p .dropdown-item[aria-expanded="true"] {
   color: #08582d!important;
 }
+#menu-3p .navbar-dropdown .navbar-logo img {
+  height: 150px;
+  width: 200px;
+}
 
 #header1-y .mbr-section-title {
   text-align: left;
@@ -639,6 +643,10 @@ h6,
 #menu-3p .link[aria-expanded="true"],
 #menu-3p .dropdown-item[aria-expanded="true"] {
   color: #08582d!important;
+}
+#menu-3p .navbar-dropdown .navbar-logo img {
+  height: 150px;
+  width: 200px;
 }
 
 
@@ -759,6 +767,10 @@ h6,
 #menu-3p .dropdown-item[aria-expanded="true"] {
   color: #08582d!important;
 }
+#menu-3p .navbar-dropdown .navbar-logo img {
+  height: 150px;
+  width: 200px;
+}
 
 
 #custom-html-53 {
@@ -770,6 +782,7 @@ h6,
   position: fixed;
   top: 0;
   z-index: 100;
+  background: green;
 }
 #header5-54 .mbr-section-title {
   color: #ffffff;
