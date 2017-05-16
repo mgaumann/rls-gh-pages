@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rls-2",
-    "currentPage": "expertise.html",
+    "currentPage": "jobopportunities.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -521,7 +521,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_customCSS": "\n.navbar-dropdown .navbar-logo img {\n    height: 70%;\n    width: 70%;\n}",
+          "_customCSS": "",
           "_anchor": "menu-3p",
           "_params": {
             "bgColor": "#ffffff",
@@ -845,7 +845,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"expertise.html\">EXPERTISE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"locations.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LOCATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Newfield, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Vineland, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Pittson, PA<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mt. Laurel, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Vineland North, NJ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"locationinner.html\">Corporate Office<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"careers.html\">CAREERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-rls.html\">ABOUT RLS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_customCSS": ".navbar-dropdown .navbar-logo img {\n    height: 150px;\n    width: 200px;\n}"
+          "_customCSS": ""
         }
       ]
     },
@@ -1308,7 +1308,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60022.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60024.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1408,7 +1408,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_customCSS": ".navbar-dropdown .navbar-logo img {\n    height: 150px;\n    width: 200px;\n}",
+          "_customCSS": "",
           "_anchor": "menu-3p",
           "_params": {
             "bgColor": "#ffffff",
@@ -1454,20 +1454,6 @@
         "meta_descr": "Web Page Creator Description"
       },
       "components": [
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"my-image\">\n    <div class=\"container\">\n<div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n                    <div class=\"navbar-brand\">\n                        \n                    </div>\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link\" href=\"expertise.html\">EXPERTISE</a></li><li class=\"nav-item\"><a class=\"nav-link link\" href=\"careers.html\">CAREERS</a></li><li class=\"nav-item\"><a class=\"nav-link link\" href=\"about-rls.html\">ABOUT RLS</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n    </div>\n</div>\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n    height: 38px;\n    padding-top:-10px;\n    position: fixed;\n    top: 0;\n    z-index: 100;\n    background: green;\n}\n",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-53",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
-        },
         {
           "_inherit": "header1",
           "_styles": {
@@ -1984,7 +1970,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_customCSS": ".navbar {\nmargin-top: 50px;\n}",
+          "_customCSS": "",
           "_anchor": "menu-3p",
           "_params": {
             "bgColor": "#ffffff",
@@ -2223,7 +2209,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60022.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60024.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2699,7 +2685,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60022.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60024.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4543,7 +4529,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x80323.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x80325.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5725,7 +5711,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_customCSS": ".navbar {\nmargin-top: 35px;\n}",
+          "_customCSS": "",
           "_anchor": "menu-56",
           "_params": {
             "bgColor": "#ffffff",
