@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rls-2",
-    "currentPage": "carriers.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,7 +17,7 @@
         "textFont": "Open Sans",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
@@ -77,7 +77,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FACILITIES</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=VxoPYioKHoY",
@@ -87,11 +87,11 @@
                 "title": "PACKAGING",
                 "showText": true,
                 "text": "No way the truck moves, some nice dramtic footage",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"transportation.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img1-2000x657.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1310,7 +1310,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60032.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60034.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2213,7 +2213,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60032.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60034.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2689,7 +2689,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60032.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60034.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4538,7 +4538,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x80333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x80335.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -4705,6 +4705,9 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "color": "#0d6938"
+            },
+            "SPAN": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -5340,6 +5343,9 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "color": "#0d6938"
+            },
+            "SPAN": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -5729,6 +5735,9 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "color": "#0d6938"
+            },
+            "SPAN": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -5774,6 +5783,9 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "color": "#0d6938"
+            },
+            "SPAN": {
+              "font-size": "46px"
             }
           },
           "_tags": [

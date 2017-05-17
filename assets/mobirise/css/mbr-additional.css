@@ -421,9 +421,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #08582d;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #slider-t H2 {
   text-align: left;
 }
@@ -1519,6 +1516,9 @@ h6,
   font-family: 'Lato', sans-serif;
   color: #0d6938;
 }
+#header3-4h SPAN {
+  font-size: 46px;
+}
 #content5-4e .mbr-section-title,
 #content5-4e p {
   color: #fff;
@@ -1705,6 +1705,9 @@ h6,
   font-family: 'Lato', sans-serif;
   color: #0d6938;
 }
+#header3-4t SPAN {
+  font-size: 46px;
+}
 #features6-4u .btn {
   background-color: #ffffff;
   color: #0d6938;
@@ -1806,6 +1809,9 @@ h6,
   font-family: 'Lato', sans-serif;
   color: #0d6938;
 }
+#header3-5c SPAN {
+  font-size: 46px;
+}
 #content7-5d P {
   text-align: center;
 }
@@ -1816,6 +1822,9 @@ h6,
 #header3-5e H3 {
   font-family: 'Lato', sans-serif;
   color: #0d6938;
+}
+#header3-5e SPAN {
+  font-size: 46px;
 }
 #content1-5f P {
   text-align: center;
