@@ -2,6 +2,22 @@
  * Default theme v2 (https://mobirise.com/)
  * Copyright 2016 Mobirise
  */
+
+/* Top Green Bar - Above main Nav **/
+section#top-1 {
+    position: fixed;
+    height: 50px;
+    left: 0;
+    right: 0;
+    background-color: #08582d;
+    z-index: 999999;
+    color: #ffffff;
+    text-align: right;
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-top: 10px;
+}
+
 .container {
   position: relative; }
 
