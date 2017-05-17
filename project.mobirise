@@ -465,7 +465,7 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>"
         },
         {
           "_styles": {
@@ -754,7 +754,7 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>"
         },
         {
           "_styles": {
@@ -1310,7 +1310,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60030.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60032.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1354,7 +1354,7 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>"
         },
         {
           "_styles": {
@@ -1917,7 +1917,7 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>"
         },
         {
           "_styles": {
@@ -2213,7 +2213,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60030.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60032.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2689,7 +2689,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60030.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60032.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2733,7 +2733,7 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>"
         },
         {
           "_styles": {
@@ -3150,7 +3150,7 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>"
         },
         {
           "_styles": {
@@ -3851,7 +3851,7 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>"
         },
         {
           "_styles": {
@@ -4200,7 +4200,7 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>"
         },
         {
           "_styles": {
@@ -4366,7 +4366,7 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>"
         },
         {
           "_styles": {
@@ -4538,7 +4538,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x80331.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x80333.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5042,7 +5042,7 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>"
         },
         {
           "_styles": {
@@ -5539,7 +5539,7 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>"
         },
         {
           "_styles": {
@@ -5833,8 +5833,8 @@
             }
           },
           "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Our Vision</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span>To be the leading family owned temperature-controlled supply chain solutions provider in the U.S.<br><br>Our Mission<br><br>To provide professional supply chain solutions to the frozen &amp; refrigerated food industry by offering safe and reliable warehousing, transportation and packaging services.<br><br>\n<strong>Contacts</strong><br>John Gaudet: 203.623.2504<br>jgaudet@rlslogistics.com<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\">Carriers</a></li><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"associatelogin.html\">Associate Login</a></li></ul>",
-          "_customCSS": ".mbr-footer-content li {\n    color: #ffffff\n}"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"carriers.html\" class=\"text-white\">Carriers</a></li><li><a href=\"contact.html\" class=\"text-white\">Contact Us</a></li><li><a href=\"associatelogin.html\" class=\"text-white\">Associate Login</a></li></ul>",
+          "_customCSS": ""
         },
         {
           "_styles": {
