@@ -25,6 +25,13 @@ section#top-1 a {
     text-decoration: none;
     margin-left: 10px;
     margin-right: 10px;
+    padding: 6px;
+    border: 1px solid transparent;
+}
+
+#top-1 a:hover {
+    border: 1px solid #fff;
+    border-radius: 6px;
 }
 
 .container {
