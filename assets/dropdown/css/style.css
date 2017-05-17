@@ -26,8 +26,9 @@
     margin-right: 0.8rem;
     transition: margin 0.3s ease-in-out; }
     .navbar-dropdown .navbar-logo img {
-      height: 3.125rem;
-      transition: all 0.3s ease-in-out; }
+    height: 9.125rem;
+    transition: all 0.3s ease-in-out;
+}
   .navbar-dropdown .mbr-table-cell {
     height: 5.625rem; }
   .navbar-dropdown .navbar-caption {
