@@ -21,7 +21,9 @@ section#top-1 {
 }
 
 section#top-1 a {
-   color: #ffffff;
+    color: #fff;
+    text-decoration: none;
+    padding-right: 10px;
 }
 
 .container {
