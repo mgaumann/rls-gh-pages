@@ -9,10 +9,11 @@
   .navbar-dropdown .navbar-brand {
     float: none;
     font-size: 0;
-    padding: 1.25rem 0;
+    padding: 0 0 30px;
     position: relative;
     transition: padding 0.25s ease;
-    white-space: nowrap; }
+    white-space: nowrap;
+}
     .navbar-dropdown .navbar-brand::before {
       content: "";
       display: inline-block;
