@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rls-2",
-    "currentPage": "transportation.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1313,7 +1313,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6000.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6002.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2218,7 +2218,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6000.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6002.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2694,7 +2694,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6000.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6002.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4548,7 +4548,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x8031.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x8033.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -4634,11 +4634,11 @@
             },
             ".mbr-section-title": {
               "color": "#000000",
-              "text-align": "right"
+              "text-align": "left"
             },
             "P": {
               "color": "#000000",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -4741,11 +4741,11 @@
             },
             ".mbr-section-title": {
               "color": "#000000",
-              "text-align": "right"
+              "text-align": "left"
             },
             "P": {
               "color": "#000000",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -4845,11 +4845,11 @@
             },
             ".mbr-section-title": {
               "color": "#000000",
-              "text-align": "right"
+              "text-align": "left"
             },
             "P": {
               "color": "#000000",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -4997,11 +4997,11 @@
             },
             ".mbr-section-title": {
               "color": "#000000",
-              "text-align": "right"
+              "text-align": "left"
             },
             "P": {
               "color": "#000000",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_tags": [
