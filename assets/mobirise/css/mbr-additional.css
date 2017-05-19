@@ -421,6 +421,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #08582d;
 }
+.scrollToTop_wraper {
+  opacity: 0 !important;
+}
 #slider-t H2 {
   text-align: left;
 }
