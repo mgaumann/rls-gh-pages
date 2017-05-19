@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rls-2",
-    "currentPage": "locationinner.html",
+    "currentPage": "jobopportunities.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1313,7 +1313,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6006.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6008.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2218,7 +2218,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6006.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6008.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2694,7 +2694,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6006.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6008.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4003,7 +4003,7 @@
           },
           "title": "CAREEER OPPORTUNITIES",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">JOB OPPORTUNITES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ASSOCIATE LOGIN</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"jobopportunities.html\" data-toolbar=\"-mbrBtnMove\">JOB OPPORTUNITES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"associatelogin.html\" data-toolbar=\"-mbrBtnMove\">ASSOCIATE LOGIN</a>"
         },
         {
           "_styles": {
@@ -4553,7 +4553,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x8037.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x8039.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
