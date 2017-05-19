@@ -1189,31 +1189,34 @@ h6,
   text-align: center;
 }
 #msg-box1-2d H3 {
-  text-align: right;
+  text-align: left;
   color: #ffffff;
 }
+#msg-box1-2c H3 {
+  text-align: left;
+}
 #msg-box1-2n H3 {
-  text-align: right;
+  text-align: left;
   color: #ffffff;
 }
 #msg-box1-2f H3 {
-  text-align: right;
+  text-align: left;
   color: #ffffff;
 }
 #msg-box1-2h H3 {
-  text-align: right;
+  text-align: left;
   color: #ffffff;
 }
 #msg-box1-2j H3 {
-  text-align: right;
+  text-align: left;
   color: #ffffff;
 }
 #msg-box1-2l H3 {
-  text-align: right;
+  text-align: left;
   color: #ffffff;
 }
 #msg-box1-2p H3 {
-  text-align: right;
+  text-align: left;
   color: #ffffff;
 }
 #menu-3p .hide-buttons .nav-btn {
