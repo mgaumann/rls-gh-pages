@@ -2,38 +2,6 @@
  * Default theme v2 (https://mobirise.com/)
  * Copyright 2016 Mobirise
  */
-
-/* Top Green Bar - Above main Nav **/
-section#top-1 {
-    position: fixed;
-    height: 50px;
-    left: 0;
-    right: 0;
-    background-color: #08582d;
-    z-index: 999999;
-    color: #ffffff;
-    text-align: right;
-    padding-right: 29.3%;
-    padding-left: 29.3%;
-    padding-top: 13px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 13px;
-}
-
-section#top-1 a {
-    color: #fff;
-    text-decoration: none;
-    margin-left: 10px;
-    margin-right: 10px;
-    padding: 6px;
-    border: 1px solid transparent;
-}
-
-#top-1 a:hover {
-    border: 1px solid #fff;
-    border-radius: 6px;
-}
-
 .container {
   position: relative; }
 

@@ -9,11 +9,10 @@
   .navbar-dropdown .navbar-brand {
     float: none;
     font-size: 0;
-    padding: 0 0 30px;
+    padding: 1.25rem 0;
     position: relative;
     transition: padding 0.25s ease;
-    white-space: nowrap;
-}
+    white-space: nowrap; }
     .navbar-dropdown .navbar-brand::before {
       content: "";
       display: inline-block;
@@ -27,9 +26,8 @@
     margin-right: 0.8rem;
     transition: margin 0.3s ease-in-out; }
     .navbar-dropdown .navbar-logo img {
-    height: 9.125rem;
-    transition: all 0.3s ease-in-out;
-}
+      height: 3.125rem;
+      transition: all 0.3s ease-in-out; }
   .navbar-dropdown .mbr-table-cell {
     height: 5.625rem; }
   .navbar-dropdown .navbar-caption {
@@ -49,9 +47,9 @@
   .navbar-dropdown.navbar-short .navbar-logo {
     margin-right: 0.5rem; }
     .navbar-dropdown.navbar-short .navbar-logo img {
-      height: 5.375rem; }
+      height: 2.375rem; }
   .navbar-dropdown.navbar-short .mbr-table-cell {
-    height: 5.375rem; }
+    height: 3.625rem; }
   .navbar-dropdown .navbar-close {
     left: 0.6875rem;
     position: fixed;
