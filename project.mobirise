@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rls-2",
-    "currentPage": "carriers.html",
+    "currentPage": "locations.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1313,7 +1313,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6002.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6004.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2218,7 +2218,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6002.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6004.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2694,7 +2694,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6002.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6004.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2878,7 +2878,7 @@
           },
           "title": "STRATEGICALLY LOCATED LOGISTICS CENTERS",
           "text": "RLS Logistics has four logistics centers located in the Northeast that service refrigerated and frozen food processors, importers and exporters, food service and retail distributors, and brand marketers on a regional and national basis.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -4548,7 +4548,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x8033.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x8035.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
