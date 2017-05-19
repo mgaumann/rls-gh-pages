@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rls-2",
-    "currentPage": "jobopportunities.html",
+    "currentPage": "carriers.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1313,7 +1313,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6008.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60010.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2218,7 +2218,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6008.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60010.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2694,7 +2694,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6008.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x60010.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4553,7 +4553,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x8039.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x80311.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5701,7 +5701,7 @@
           },
           "title": "CARRIERS",
           "text": "Over 500,000,000 pounds handled per year<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_styles": {
