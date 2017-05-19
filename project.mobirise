@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rls-2",
-    "currentPage": "locations.html",
+    "currentPage": "transportation.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1093,7 +1093,7 @@
           "_name": "msg-box1",
           "_styles": {
             "H3": {
-              "text-align": "right",
+              "text-align": "left",
               "color": "#ffffff"
             }
           },
@@ -1113,7 +1113,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
+            "inverse": false,
             "showButtons": true,
             "showText": true,
             "showTitle": true
@@ -1150,7 +1150,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
-          "title": "Shuttle service"
+          "title": "Satellite tracked equipment"
         },
         {
           "_tags": [
@@ -1159,7 +1159,7 @@
           "_name": "msg-box1",
           "_styles": {
             "H3": {
-              "text-align": "right",
+              "text-align": "left",
               "color": "#ffffff"
             }
           },
@@ -1179,14 +1179,14 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
+            "inverse": false,
             "showButtons": true,
             "showText": true,
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
-          "title": "Shuttle service"
+          "title": "Multi-vendor freight consolidation program"
         },
         {
           "_tags": [
@@ -1216,7 +1216,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
-          "title": "Shuttle service"
+          "title": "Cross-Docking"
         },
         {
           "_tags": [
@@ -1225,7 +1225,7 @@
           "_name": "msg-box1",
           "_styles": {
             "H3": {
-              "text-align": "right",
+              "text-align": "left",
               "color": "#ffffff"
             }
           },
@@ -1245,14 +1245,14 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
+            "inverse": false,
             "showButtons": true,
             "showText": true,
             "showTitle": true
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
-          "title": "Shuttle service"
+          "title": "Over 100 national, regional and local regularly scheduled LTL runs per week"
         },
         {
           "_tags": [
@@ -1282,7 +1282,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "text": "",
-          "title": "Shuttle service"
+          "title": "Satellite tracked equipment"
         },
         {
           "_tags": [
@@ -1313,7 +1313,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6004.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6000.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2218,7 +2218,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6004.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6000.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2694,7 +2694,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6004.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph-2000x6000.png",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4548,7 +4548,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x8035.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/topograph2-2000x8031.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
